@@ -1,0 +1,8 @@
+Model Explainability and Performance Comparison:
+
+                  Model      MAE      MSE     RMSE        R²  SHAP Sparsity
+      Linear Regression 0.306737 0.163504 0.404357 -2.249330            122
+Decision Tree Regressor 0.165200 0.044292 0.210457  0.119782             53
+                    SVR 0.103428 0.015224 0.123384  0.697458            122
+Random Forest Regressor 0.087668 0.013334 0.115472  0.735015            122
+      XGBoost Regressor 0.094891 0.017688 0.132997  0.648482            102

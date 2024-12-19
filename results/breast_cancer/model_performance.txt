@@ -1,0 +1,30 @@
+
+Logistic Regression Model Performance:
+Accuracy: 0.9649, Precision: 0.9750, Recall: 0.9286, F1-score: 0.9512, AUC-ROC: 0.9960
+
+Decision Tree Model Performance:
+Accuracy: 0.9298, Precision: 0.9048, Recall: 0.9048, F1-score: 0.9048, AUC-ROC: 0.9246
+
+SVM Model Performance:
+Accuracy: 0.9737, Precision: 1.0000, Recall: 0.9286, F1-score: 0.9630, AUC-ROC: 0.9947
+
+Neural Network Model Performance:
+Accuracy: 0.9737, Precision: 1.0000, Recall: 0.9286, F1-score: 0.9630, AUC-ROC: 0.9957
+
+XGBoost Model Performance:
+Accuracy: 0.9561, Precision: 1.0000, Recall: 0.8810, F1-score: 0.9367, AUC-ROC: 0.9934
+
+Logistic Regression Model Performance:
+Accuracy: 0.9649, Precision: 0.9750, Recall: 0.9286, F1-score: 0.9512, AUC-ROC: 0.9960
+
+Decision Tree Model Performance:
+Accuracy: 0.9298, Precision: 0.9048, Recall: 0.9048, F1-score: 0.9048, AUC-ROC: 0.9246
+
+SVM Model Performance:
+Accuracy: 0.9737, Precision: 1.0000, Recall: 0.9286, F1-score: 0.9630, AUC-ROC: 0.9947
+
+Neural Network Model Performance:
+Accuracy: 0.9737, Precision: 1.0000, Recall: 0.9286, F1-score: 0.9630, AUC-ROC: 0.9957
+
+XGBoost Model Performance:
+Accuracy: 0.9561, Precision: 1.0000, Recall: 0.8810, F1-score: 0.9367, AUC-ROC: 0.9934

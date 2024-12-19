@@ -1,0 +1,24 @@
+
+Linear Regression Model Performance:
+MAE: 0.3067, MSE: 0.1635, RMSE: 0.4044, R²: -2.2493
+
+Decision Tree Regressor Model Performance:
+MAE: 0.1652, MSE: 0.0443, RMSE: 0.2105, R²: 0.1198
+
+SVR Model Performance:
+MAE: 0.1034, MSE: 0.0152, RMSE: 0.1234, R²: 0.6975
+
+Linear Regression Model Performance:
+MAE: 0.3067, MSE: 0.1635, RMSE: 0.4044, R²: -2.2493
+
+Decision Tree Regressor Model Performance:
+MAE: 0.1652, MSE: 0.0443, RMSE: 0.2105, R²: 0.1198
+
+SVR Model Performance:
+MAE: 0.1034, MSE: 0.0152, RMSE: 0.1234, R²: 0.6975
+
+Random Forest Regressor Model Performance:
+MAE: 0.0877, MSE: 0.0133, RMSE: 0.1155, R²: 0.7350
+
+XGBoost Regressor Model Performance:
+MAE: 0.0949, MSE: 0.0177, RMSE: 0.1330, R²: 0.6485

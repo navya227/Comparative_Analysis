@@ -1,0 +1,8 @@
+Model Explainability and Performance Comparison:
+
+              Model  Accuracy  Precision   Recall  F1-score  AUC-ROC  LIME Fidelity  LIME Sparsity  SHAP Fidelity  SHAP Sparsity
+Logistic Regression  0.964912   0.975000 0.928571  0.951220 0.996032       0.168877             10      12.884494             30
+      Decision Tree  0.929825   0.904762 0.904762  0.904762 0.924603       0.081963             10       0.637264             26
+                SVM  0.973684   1.000000 0.928571  0.962963 0.994709       0.189876             10       0.540930             30
+     Neural Network  0.973684   1.000000 0.928571  0.962963 0.995701       0.169668             10       0.604808             30
+            XGBoost  0.956140   1.000000 0.880952  0.936709 0.993386       0.183228             10       9.899801             27
